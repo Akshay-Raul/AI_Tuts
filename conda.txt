@@ -1,0 +1,20 @@
+conda.txt
+
+
+conda activate AI_Tut
+
+pip list
+
+
+
+
+neural networks 
+Back propogation
+
+
+own single layer perceptor
+
+
+
+11007143@stud.hochschule-heidelberg.de
+
